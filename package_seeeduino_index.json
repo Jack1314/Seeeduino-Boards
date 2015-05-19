@@ -1,0 +1,73 @@
+{
+  "packages": [
+    {
+      "name": "Seeeduino",
+      "maintainer": "Seeed Studio",
+      "websiteURL": "http://www.seeedstudio.com/",
+      "email": "",
+      "help": {
+        "online": "http://www.seeedstudio.com/wiki/Main_Page"
+      },
+      "platforms": [
+        {
+          "name": "Seeeduino",
+          "architecture": "avr",
+          "version": "3.0.0",
+          "category": "Seeeduino",
+          "help": {
+            "online": "http://www.seeedstudio.com/wiki/Main_Page"
+          },
+          "url": "https://github.com/Jack1314/Seeeduino-Boards/blob/master/test/seeeduino-3.0.0.zip",
+          "archiveFileName": "seeeduino-3.0.0.zip",
+          "checksum": "SHA-256:E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+          "size": "1412",
+          "boards": [
+            {"name": "Seeeduino ATmega328"},
+            {"name": "Seeeduino Mega 2560"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "4.8.1-arduino5"
+            },
+            {
+              "packager": "arduino",
+              "name": "avrdude",
+              "version": "6.0.1-arduino5"
+            }
+          ]
+        },
+        {
+          "name": "Seeeduino",
+          "architecture": "avr",
+          "version": "3.0.1",
+          "category": "Seeeduino",
+          "help": {
+            "online": "http://www.seeedstudio.com/wiki/Main_Page"
+          },
+          "url": "https://github.com/Jack1314/Seeeduino-Boards/blob/master/test/seeeduino-3.0.0.zip",
+          "archiveFileName": "seeeduino-3.0.0.zip",
+          "checksum": "SHA-256:E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+          "size": "1412",
+          "boards": [
+            {"name": "Seeeduino ATmega328"},
+            {"name": "Seeeduino Mega 2560"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "4.8.1-arduino5"
+            },
+            {
+              "packager": "arduino",
+              "name": "avrdude",
+              "version": "6.0.1-arduino5"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
