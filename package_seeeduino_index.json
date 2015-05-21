@@ -37,35 +37,6 @@
               "version": "6.0.1-arduino5"
             }
           ]
-        },
-        {
-          "name": "Seeeduino",
-          "architecture": "avr",
-          "version": "3.0.1",
-          "category": "Seeeduino",
-          "help": {
-            "online": "http://www.seeedstudio.com/wiki/Main_Page"
-          },
-          "url": "https://github.com/Jack1314/Seeeduino-Boards/raw/master/test/seeeduino-3.0.0.zip",
-          "archiveFileName": "seeeduino-3.0.0.zip",
-          "checksum": "SHA-256:67e6862a6b93e4497a091774b22556b6ef70f04ed23de9bd6dd8e6e19eb2d733",
-          "size": "1412",
-          "boards": [
-            {"name": "Seeeduino ATmega328"},
-            {"name": "Seeeduino Mega 2560"}
-          ],
-          "toolsDependencies": [
-            {
-              "packager": "arduino",
-              "name": "avr-gcc",
-              "version": "4.8.1-arduino5"
-            },
-            {
-              "packager": "arduino",
-              "name": "avrdude",
-              "version": "6.0.1-arduino5"
-            }
-          ]
         }
       ]
     }
