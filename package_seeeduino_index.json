@@ -19,8 +19,8 @@
           },
           "url": "https://github.com/Jack1314/Seeeduino-Boards/raw/master/test/seeeduino-3.0.0.zip",
           "archiveFileName": "seeeduino-3.0.0.zip",
-          "checksum": "SHA-256:b7a524800caed4728e980487d87f22be8516908ac2f87dfaf588ff091457794c",
-          "size": "1093",
+          "checksum": "SHA-256:d9b35d250cdda292aad893d4c855f7e947adfa24fda9c61c6eea93fdd920bdc5",
+          "size": "1474",
           "boards": [
             {"name": "Seeeduino ATmega328"},
             {"name": "Seeeduino Mega 2560"}
