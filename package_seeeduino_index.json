@@ -12,18 +12,21 @@
         {
           "name": "Seeeduino",
           "architecture": "avr",
-          "version": "3.0.0",
+          "version": "1.0.0",
           "category": "ATmega",
           "help": {
             "online": "http://www.seeedstudio.com/wiki/Main_Page"
           },
           "url": "https://github.com/Jack1314/Seeeduino-Boards/blob/master/test/seeeduino-3.0.0.zip?raw=true",
           "archiveFileName": "seeeduino-3.0.0.zip",
-          "checksum": "SHA-256:99acf976b8fa19da4379cf5197ef9d43b322963a907b122565333abfe23a97cf",
-          "size": "1481",
+          "checksum": "SHA-256:4689ba4eaa0a96bf957a05d5ef7b51d1bedaf24684bfe948d99a833950a12e79",
+          "size": "1896",
           "boards": [
-            {"name": "Seeeduino ATmega328"},
-            {"name": "Seeeduino Mega 2560"}
+            {"name": "Seeeduino V3.0(Atmega328P)"},
+            {"name": "Seeeduino Mega 2560"},
+			{"name": "Seeeduino V4(Atmega328P)"},
+			{"name": "Seeeduino Lotus"},
+			{"name": "Seeeduino Lite"}
           ],
           "toolsDependencies": [
             {
