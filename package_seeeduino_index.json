@@ -17,7 +17,7 @@
           "help": {
             "online": "http://www.seeedstudio.com/wiki/Main_Page"
           },
-          "url": "https://github.com/Jack1314/Seeeduino-Boards/raw/master/test/seeeduino-3.0.0.zip",
+          "url": "https://github.com/Jack1314/Seeeduino-Boards/blob/master/test/seeeduino-3.0.0.zip?raw=true",
           "archiveFileName": "seeeduino-3.0.0.zip",
           "checksum": "SHA-256:99acf976b8fa19da4379cf5197ef9d43b322963a907b122565333abfe23a97cf",
           "size": "1481",
