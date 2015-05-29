@@ -17,10 +17,10 @@
           "help": {
             "online": "http://www.seeedstudio.com/wiki/Main_Page"
           },
-          "url": "https://github.com/Jack1314/Seeeduino-Boards/blob/master/test/seeeduino-v1.0.0.rar?raw=true",
-          "archiveFileName": "seeeduino-v1.0.0.rar",
-          "checksum": "SHA-256:6308b04f82434231edd9f1cb81c3fa5c4ada447208928f18ff96050233abf4b6",
-          "size": "1677",
+          "url": "https://github.com/Jack1314/Seeeduino-Boards/blob/master/test/seeeduino-v1.0.0.zip?raw=true",
+          "archiveFileName": "seeeduino-v1.0.0.zip",
+          "checksum": "SHA-256:db124e76b9cb9e788fa21c78d66e868472a2ec84a45ec25c92237a22b07a2b48",
+          "size": "1899",
           "boards": [
             {"name": "Seeeduino V3.0(Atmega328P)"},
             {"name": "Seeeduino Mega 2560"},
